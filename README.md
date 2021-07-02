@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Ketan Rathod</h1>
 <!-- //<img src="https://badges.pufler.dev/visits/ketanrtd713/Ketan_Rathod" alt="number of visits"> -->
-<!-- <img align="right" alt="My image" width="450" height="500" src="https://user-images.githubusercontent.com/76687839/123784054-abbf6880-d8f4-11eb-934f-17a391a04453.png"> -->
+<img align="right" alt="My image" width="450" height="500" src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif"> 
 
 <h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
 --> Explorer 🌈<br> --> Like Discussions and Team-work</h3>
