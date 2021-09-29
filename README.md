@@ -3,7 +3,7 @@
 <!-- //<img src="https://badges.pufler.dev/visits/ketanrtd713/Ketan_Rathod" alt="number of visits"> -->
 <!-- <img align="right" alt="My image" width="450" height="500" src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif">  -->
 
-<h3 align = "left">🟠Pursuing Computer Engineering - 1st Year🎓.<br><br>
+<h3 align = "left">🟠Pursuing Computer Engineering - 2nd Year🎓.<br><br>
 --> Explorer 🌈<br> --> Like Discussions and Team-work</h3>
 <h2></h2>
 <h3 align="left">🔴Languages and Tools:</h3>
@@ -26,8 +26,8 @@
 
 <h2></h2>
 <h3 align="left">🟡 I'm currently Learning:</h3> 
- 🚀 Android development and exploring various branches of CS<br>
- 🚀 Competitive Programming ( just started )<br>
+ 🚀 Web development <br>
+ 🚀 Competitive Programming <br>
  <h2></h2>
 <h3 align="left"> 🔵 Github Status  <h3> 
 
