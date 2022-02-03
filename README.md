@@ -15,6 +15,7 @@
 - NODEJS<br>
 - EXPRESS<br>
 - PUG<br>
+- EJS<br>
 
 <h2></h2>
 <h3 align="left">🟠Nowadays I am doing</h3> 
