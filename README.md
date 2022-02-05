@@ -12,6 +12,7 @@
 - HTML<br>
 - CSS<br>
 - JAVASCRIPT<br>
+- BOOTSTRAP<br>
 - NODEJS<br>
 - EXPRESS<br>
 - PUG<br>
