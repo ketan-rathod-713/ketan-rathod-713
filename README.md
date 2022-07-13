@@ -1,48 +1,57 @@
+![cover](https://user-images.githubusercontent.com/76687839/178792091-0a3ccf56-9e4d-459e-bb39-cb90a3d2da0f.png)
 
-<h1 align="center">Hello 👋, I'm Ketan Rathod</h1>
-<!-- //<img src="https://badges.pufler.dev/visits/ketanrtd713/Ketan_Rathod" alt="number of visits"> -->
-<!-- <img align="right" alt="My image" width="450" height="500" src="https://media.giphy.com/media/xHEPtVlwQ4sJs07clI/giphy.gif">  -->
+<h1 align="center">Hey Folks, Ketan Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+  - 🏛️: I'm in my 3rd year at Vishwakarma Government Engineering College, Ahmedabad  <br>
+  - 💻 Computer Science <br>  
+  <br>
+  I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products.
 
-<h3 align = "left">🟠Pursuing Computer Engineering - 2nd Year🎓</h3>
-- Explorer 🌈<br> - Like Discussions and Team-work
-<h2></h2>
-<h3 align="left">🟠Languages and Tools:</h3>
-- C <br>
-- CPP<br>
-- HTML<br>
-- CSS<br>
-- JAVASCRIPT<br>
-- BOOTSTRAP<br>
-- NODEJS<br>
-- EXPRESS<br>
-- PUG<br>
-- EJS<br>
+<br><br>
+<div width="40%">
+<h2 align="left">MY LEARNINGS :</h2>
 
-<h2></h2>
-<h3 align="left">🟠Nowadays I am doing</h3> 
- 🚀 Web development <br>
- 🚀 Competitive Programming <br>
- 
+⏩ Languages : C++ , Java , Python++
 
- 
- 
-<h2></h2>
-<h3 align="left">🟠YOU CAN FIND ME HERE  👇</h3>
+⏩ Frontend Development , NodeJS , Express , ejs
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ketan-rathod-a8aa3019b/" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/linkedIn.png?raw=true" alt="LinkedIn" height="30" width="50" /></a>
-<a href="https://github.com/ketanrtd713" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/github.png?raw=true" alt="Github" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ketanrathod713" target="blank"><img align="center" src="https://github.com/pritmanvar/pritmanvar/blob/main/platforms/codechef.png?raw=true" alt="CodeChef" height="45" width="55" /></a>
-</p>
+⏩ Application Development++
 
-<h3 align="left"> 🔵 Github Status  <h3> 
-<div align="center">
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=ketanrtd713&theme=radical&show_icons=true" />
+⏩ DSA++
 
-  <img width="45%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanrtd713&theme=radical&show_icons=true" />
+⏩ Graphic design, Photoshop++, Canva
 </div>
-<h2></h2>  
 
-<!--  ![github graph](https://activity-graph.herokuapp.com/graph?username=ketanrtd713&theme=react-blue&hide_border=false)
-<br> -->
- <img width="80%" align="left" src="https://activity-graph.herokuapp.com/graph?username=ketanrtd713&theme=react-dark&hide_border=false"/>
+
+<h2 align="center">Connect With Me !! 🤝</h2>
+<p align="center">
+<a href="https://github.com/ketanrtd713" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+
+<a href="https://www.linkedin.com/in/ketan-rathod-a8aa3019b/" target="_blank">
+<img alt = "LinkedIn"src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
+
+<a href="mailto:ketanrtd1@gmail.com" target="_blank">
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://twitter.com/ketanrtd713" target="_blank">
+<img alt ="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+</p>
+ 
+ 
+ 
+ <h1 align="center">__Stats__</h1>
+
+<div align="center">
+<p align="#center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanrtd713&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ketanrtd713&theme=dracula&show_icons=true" alt="dishi24's Github Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanrtd713&theme=dracula&show_icons=true" />
+   
+</div>
+
+[![Ketan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ketanrtd713&theme=dracula)](https://github.com/ketanrtd713/github-readme-activity-graph)
+<br>
+
+
+
+
