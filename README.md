@@ -1,10 +1,10 @@
-![cover](https://user-images.githubusercontent.com/76687839/178792091-0a3ccf56-9e4d-459e-bb39-cb90a3d2da0f.png)
+![cover](https://media.licdn.com/dms/image/D4D16AQHkXJaF6OPIQw/profile-displaybackgroundimage-shrink_350_1400/0/1681107267956?e=1698278400&v=beta&t=BRGTE9IHLcI0c1p8AeY0wHArTpAOTRkPQ_sXnSFeeE4)
 
 <h1 align="center">Hey Folks, Ketan Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   - 🏛️: I'm in my 3rd year at Vishwakarma Government Engineering College, Ahmedabad  <br>
   - 💻 Computer Science <br>  
   <br>
-  I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products.
+  I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products. I am open for new and creative projects, feel free to contact me.
 
 <br><br>
 <div width="40%">
@@ -49,8 +49,6 @@
    
 </div>
 
-[![Ketan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ketanrtd713&theme=dracula)](https://github.com/ketanrtd713/github-readme-activity-graph)
-<br>
 
 
 
