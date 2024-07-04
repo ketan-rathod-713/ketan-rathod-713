@@ -1,25 +1,37 @@
-![cover](https://media.licdn.com/dms/image/D4D16AQHkXJaF6OPIQw/profile-displaybackgroundimage-shrink_350_1400/0/1681107267956?e=1698278400&v=beta&t=BRGTE9IHLcI0c1p8AeY0wHArTpAOTRkPQ_sXnSFeeE4)
 
-<h1 align="center">Hey Folks, Ketan Here !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  - 🏛️: I'm in my 3rd year at Vishwakarma Government Engineering College, Ahmedabad  <br>
-  - 💻 Computer Science <br>  
+<h1 align="center">Hey Folks, Ketan Rathod Here ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+  I am a Software Engineer Who is
+  <ul>
+    <li>passionate for Full Stack Development</li>
+    <li>working as a Golang Developer</li>
+    <li>wants ddving deep into the depths of scalable Software Engineering</li>
+  </ul>
+  
+  
+  <br>  
   <br>
   I can provide a fresh take and an extraordinary approach to every project. I am always open to challenges and constructive feedback. I am open-minded and learn new things quickly. I want to become a team player and dedicate all my skills and talents to develop high-quality and unique products. I am open for new and creative projects, feel free to contact me.
-
 <br><br>
+<div>
+   Feel free to checkout my repositories. Star it if you found it useful. 
+</div>
+<br> <br>
+
 <div width="40%">
 <h2 align="left">MY LEARNINGS :</h2>
 
-⏩ Languages : C++ , Java , Python++
+⏩ Languages : Golang, Javascript++
 
-⏩ Frontend Development , NodeJS , Express , ejs
+⏩ Frontend Development
 
-⏩ Application Development++
+⏩ Computer Networks
 
-⏩ DSA++
+⏩ Docker, Kubernetes++
 
-⏩ Graphic design, Photoshop++, Canva
 </div>
+
+
 
 
 <h2 align="center">Connect With Me !! 🤝</h2>
@@ -38,16 +50,6 @@
 
 </p>
  
- 
- 
- <h1 align="center">__Stats__</h1>
-
-<div align="center">
-<p align="#center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketanrtd713&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ketanrtd713&theme=dracula&show_icons=true" alt="dishi24's Github Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketanrtd713&theme=dracula&show_icons=true" />
-   
-</div>
 
 
 
