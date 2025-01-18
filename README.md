@@ -17,7 +17,6 @@
 - Strong foundation in **Docker** and containerization.
 - Knowledge of **Kubernetes** for container orchestration (actively learning).
 - Hands-on experience with **PostgreSQL**, **MySQL**, and database schema design.
-- Understanding of **computer networks** and system design.
 - Open to challenges, feedback, and continuous learning to refine my craft.
 
 ---
