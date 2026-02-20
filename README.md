@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Ketan Rathod! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">A Backend Developer with 1.5+ years of experience in building scalable and efficient systems</h3>
+<h3 align="center">A Backend Developer with 2+ years of experience in building scalable and efficient systems</h3>
 
 ---
 
