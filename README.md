@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 - **Professional Role:** Backend Developer specializing in Golang.
-- **Experience:** 1.5+ years of experience in designing, developing, and deploying backend services.
+- **Experience:** 2+ years of experience in designing, developing, and deploying backend services.
 - **Passion:** Building scalable and resilient software solutions.
 - **Learning Focus:** Currently exploring Kubernetes, AWS, and DevOps practices to enhance backend infrastructure management.
 
